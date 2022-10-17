@@ -2,7 +2,7 @@ import subprocess
 from colorama import Fore
 import os
 
-os.sys("cls")
+os.system("cls")
 print(Fore.RED+"""
  __   __ _          __  __      
  |  \/  | |__  _ __ \ \/ /_ __  
