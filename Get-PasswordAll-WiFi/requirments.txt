@@ -1,0 +1,3 @@
+pip install subprocess.run
+pip install colorama
+pip install Fore
